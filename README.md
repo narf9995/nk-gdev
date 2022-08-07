@@ -1,2 +1,2 @@
 # nk-gdev
-Git repo for game development collaboration.
+Git repo for game development collaboration & notes.
